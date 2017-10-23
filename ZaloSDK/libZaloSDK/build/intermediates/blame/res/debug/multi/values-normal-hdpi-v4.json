@@ -1,0 +1,102 @@
+[
+    {
+        "outputFile": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-normal-hdpi-v4\\values-normal-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-normal-hdpi\\bools.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 97,
+                        "endColumn": 43,
+                        "endOffset": 136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endColumn": 38,
+                    "endOffset": 133
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-normal-hdpi\\bools.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 38,
+                        "endOffset": 91
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 138,
+                    "endColumn": 66,
+                    "endOffset": 200
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-normal-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 66,
+                        "endOffset": 221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 205,
+                    "endColumn": 69,
+                    "endOffset": 270
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-normal-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 227,
+                        "endColumn": 69,
+                        "endOffset": 292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 275,
+                    "endColumn": 65,
+                    "endOffset": 336
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-normal-hdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 65,
+                        "endOffset": 153
+                    }
+                }
+            }
+        ]
+    }
+]

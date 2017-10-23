@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\zalosdk_icon_next.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-xxhdpi\\zalosdk_icon_next.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\zalosdk_radio_button_normal.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-xxhdpi\\zalosdk_radio_button_normal.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\zalosdk_icon_back_arrow.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-xxhdpi\\zalosdk_icon_back_arrow.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\zalosdk_register_avatar_placeholder.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-xxhdpi\\zalosdk_register_avatar_placeholder.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\zalosdk_icon_pencil.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-xxhdpi\\zalosdk_icon_pencil.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\zalosdk_register_avatar_overlay.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-xxhdpi\\zalosdk_register_avatar_overlay.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\zalosdk_icon_x.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-xxhdpi\\zalosdk_icon_x.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\zalosdk_radio_button_selected.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-xxhdpi\\zalosdk_radio_button_selected.png"
+    }
+]

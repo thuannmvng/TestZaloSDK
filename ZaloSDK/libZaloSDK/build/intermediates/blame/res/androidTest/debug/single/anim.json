@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\trans_left_in.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\anim\\trans_left_in.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\trans_right_out.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\anim\\trans_right_out.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\trans_right_in.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\anim\\trans_right_in.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\trans_left_out.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\bundles\\debug\\res\\anim\\trans_left_out.xml"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_user.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-mdpi\\ic_user.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ico_border.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-mdpi\\ico_border.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\zalosdk_register_avatar_placeholder.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-mdpi\\zalosdk_register_avatar_placeholder.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\i_next2.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-mdpi\\i_next2.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\zalosdk_register_avatar_overlay.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-mdpi\\zalosdk_register_avatar_overlay.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_id.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-mdpi\\ic_id.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_lock.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-mdpi\\ic_lock.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_protect.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-mdpi\\ic_protect.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\i_phone.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-mdpi\\i_phone.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ico_support.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-mdpi\\ico_support.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\i_beta_enable.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-mdpi\\i_beta_enable.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\zalosdk_icon_x.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-mdpi\\zalosdk_icon_x.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\zalosdk_icon_back_arrow.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-mdpi\\zalosdk_icon_back_arrow.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\i_beta.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-mdpi\\i_beta.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\zalosdk_radio_button_selected.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-mdpi\\zalosdk_radio_button_selected.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\zalosdk_radio_button_normal.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-mdpi\\zalosdk_radio_button_normal.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\i_beta_disable.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-mdpi\\i_beta_disable.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_checked.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-mdpi\\ic_checked.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_play_fb.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-mdpi\\ic_play_fb.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\i_close.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-mdpi\\i_close.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_warning.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-mdpi\\ic_warning.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\i_done.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-mdpi\\i_done.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\zalosdk_icon_pencil.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-mdpi\\zalosdk_icon_pencil.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_uncheck.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-mdpi\\ic_uncheck.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_play_google.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-mdpi\\ic_play_google.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\i_check2.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-mdpi\\i_check2.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_play.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-mdpi\\ic_play.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_email.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-mdpi\\ic_email.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_play_zing.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-mdpi\\ic_play_zing.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_arrow.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-mdpi\\ic_arrow.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\zalosdk_icon_next.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-mdpi\\zalosdk_icon_next.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\i_back2.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-mdpi\\i_back2.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ico_camera.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-mdpi\\ico_camera.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_play_zalo.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-mdpi\\ic_play_zalo.png"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_close_web.png",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\drawable-mdpi\\ic_close_web.png"
+    }
+]

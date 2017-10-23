@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/parent0"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/background_regis"
+    >
+<!--<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/parent0"
+    android:background="@color/background_regis">-->
+
+<LinearLayout
+    android:id="@+id/parent1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+  
+     <TextView 
+         android:id="@+id/popup_select_country"
+         android:paddingLeft="15dp"
+         android:paddingRight="15dp"
+         android:textColor="@color/black"
+         android:text="@string/txt_default_select_country"
+         android:layout_width="match_parent"
+         android:layout_height="50dp"
+         android:background="@color/white"
+         android:paddingTop="10dp"
+         android:paddingBottom="10dp"
+         android:drawableRight="@drawable/zalosdk_icon_next"
+         android:lines="1"
+         android:gravity="center_vertical"
+         android:textSize="18sp"
+         />
+
+     <View android:layout_width="match_parent"
+         android:layout_height="0.2dp"
+         android:layout_marginLeft="15dp"
+         android:background="@color/gray"/>
+     
+     <EditText 
+         android:id="@+id/edti_phonenumber"
+         android:layout_width="match_parent"
+         android:layout_height="50dp"
+         android:paddingTop="10dp"
+         android:paddingBottom="10dp"
+         android:hint="@string/txt_input_phone_number"
+         android:paddingRight="15dp"
+         android:paddingLeft="15dp"
+         android:background="@color/white"
+         android:inputType="phone"
+         android:drawableRight="@drawable/zalosdk_icon_x"
+         />
+     
+     <TextView
+         android:id="@+id/btn_continue"
+         android:paddingTop="10dp"
+         android:paddingBottom="10dp"
+         android:text="@string/txt_continue_upper_case"
+         android:textColor="@color/white"
+         android:background="@drawable/zalo_regis_rounded"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:paddingLeft="60dp"
+         android:paddingRight="60dp"
+         android:layout_gravity="center_horizontal"
+         android:layout_marginTop="30dp"
+         />
+     
+     <TextView android:id="@+id/term"
+         android:layout_gravity="center_horizontal"
+         android:layout_height="wrap_content"
+         android:layout_width="wrap_content"
+         android:paddingLeft="20dp"
+         android:paddingRight="20dp"
+         android:paddingTop="0dp"
+         android:paddingBottom="0dp"
+         android:layout_marginTop="20dp"
+         android:textColor="@color/black"
+         android:text="@string/term_regis"
+         android:gravity="center_horizontal"
+         android:lines="2"
+         />
+     
+</LinearLayout>
+<!--
+</ScrollView>-->
+</LinearLayout>

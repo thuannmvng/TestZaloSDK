@@ -1,0 +1,769 @@
+[
+    {
+        "outputFile": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 234,
+                    "endColumn": 19,
+                    "endOffset": 7531
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 526,
+                        "endLine": 239,
+                        "endColumn": 19,
+                        "endOffset": 8234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 235,
+                    "startColumn": 4,
+                    "startOffset": 7536,
+                    "endColumn": 162,
+                    "endOffset": 7694
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 74,
+                        "endColumn": 159,
+                        "endOffset": 232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 236,
+                    "startColumn": 4,
+                    "startOffset": 7699,
+                    "endColumn": 95,
+                    "endOffset": 7790
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 235,
+                        "endColumn": 92,
+                        "endOffset": 326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 237,
+                    "startColumn": 4,
+                    "startOffset": 7795,
+                    "endColumn": 82,
+                    "endOffset": 7873
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 241,
+                        "startColumn": 4,
+                        "startOffset": 8242,
+                        "endColumn": 82,
+                        "endOffset": 8320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 238,
+                    "startColumn": 4,
+                    "startOffset": 7878,
+                    "endColumn": 276,
+                    "endOffset": 8150
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 242,
+                        "startColumn": 4,
+                        "startOffset": 8326,
+                        "endColumn": 276,
+                        "endOffset": 8598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 239,
+                    "startColumn": 4,
+                    "startOffset": 8155,
+                    "endColumn": 54,
+                    "endOffset": 8205
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 244,
+                        "startColumn": 1,
+                        "startOffset": 8652,
+                        "endColumn": 51,
+                        "endOffset": 8702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 240,
+                    "startColumn": 4,
+                    "startOffset": 8210,
+                    "endColumn": 83,
+                    "endOffset": 8289
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 246,
+                        "startColumn": 1,
+                        "startOffset": 8760,
+                        "endColumn": 80,
+                        "endOffset": 8839
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 241,
+                    "startColumn": 4,
+                    "startOffset": 8294,
+                    "endColumn": 130,
+                    "endOffset": 8420
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 329,
+                        "endColumn": 127,
+                        "endOffset": 455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 8425,
+                    "endColumn": 52,
+                    "endOffset": 8473
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 243,
+                        "startColumn": 1,
+                        "startOffset": 8601,
+                        "endColumn": 49,
+                        "endOffset": 8649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 243,
+                    "startColumn": 4,
+                    "startOffset": 8478,
+                    "endColumn": 69,
+                    "endOffset": 8543
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 458,
+                        "endColumn": 66,
+                        "endOffset": 523
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 244,
+                    "startColumn": 4,
+                    "startOffset": 8548,
+                    "endColumn": 31,
+                    "endOffset": 8575
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 36,
+                        "endColumn": 36,
+                        "endOffset": 71
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 245,
+                    "startColumn": 4,
+                    "startOffset": 8580,
+                    "endColumn": 43,
+                    "endOffset": 8619
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 270,
+                        "startColumn": 1,
+                        "startOffset": 10284,
+                        "endColumn": 40,
+                        "endOffset": 10323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 246,
+                    "startColumn": 4,
+                    "startOffset": 8624,
+                    "endColumn": 136,
+                    "endOffset": 8756
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 267,
+                        "startColumn": 1,
+                        "startOffset": 10012,
+                        "endColumn": 133,
+                        "endOffset": 10144
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 247,
+                    "startColumn": 4,
+                    "startOffset": 8761,
+                    "endColumn": 47,
+                    "endOffset": 8804
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 248,
+                        "startColumn": 1,
+                        "startOffset": 8891,
+                        "endColumn": 44,
+                        "endOffset": 8934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 248,
+                    "startColumn": 4,
+                    "startOffset": 8809,
+                    "endColumn": 53,
+                    "endOffset": 8858
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 249,
+                        "startColumn": 1,
+                        "startOffset": 8937,
+                        "endColumn": 50,
+                        "endOffset": 8986
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 249,
+                    "startColumn": 4,
+                    "startOffset": 8863,
+                    "endColumn": 88,
+                    "endOffset": 8947
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 263,
+                        "startColumn": 1,
+                        "startOffset": 9761,
+                        "endColumn": 85,
+                        "endOffset": 9845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 250,
+                    "startColumn": 4,
+                    "startOffset": 8952,
+                    "endColumn": 53,
+                    "endOffset": 9001
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 250,
+                        "startColumn": 1,
+                        "startOffset": 8989,
+                        "endColumn": 50,
+                        "endOffset": 9038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 251,
+                    "startColumn": 4,
+                    "startOffset": 9006,
+                    "endColumn": 60,
+                    "endOffset": 9062
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 253,
+                        "startColumn": 1,
+                        "startOffset": 9176,
+                        "endColumn": 57,
+                        "endOffset": 9232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 252,
+                    "startColumn": 4,
+                    "startOffset": 9067,
+                    "endColumn": 59,
+                    "endOffset": 9122
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 262,
+                        "startColumn": 1,
+                        "startOffset": 9703,
+                        "endColumn": 56,
+                        "endOffset": 9758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 253,
+                    "startColumn": 4,
+                    "startOffset": 9127,
+                    "endColumn": 68,
+                    "endOffset": 9191
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 251,
+                        "startColumn": 1,
+                        "startOffset": 9041,
+                        "endColumn": 65,
+                        "endOffset": 9105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 254,
+                    "startColumn": 4,
+                    "startOffset": 9196,
+                    "endColumn": 81,
+                    "endOffset": 9273
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 274,
+                        "startColumn": 1,
+                        "startOffset": 10522,
+                        "endColumn": 78,
+                        "endOffset": 10599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 255,
+                    "startColumn": 4,
+                    "startOffset": 9278,
+                    "endColumn": 51,
+                    "endOffset": 9325
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 258,
+                        "startColumn": 1,
+                        "startOffset": 9456,
+                        "endColumn": 48,
+                        "endOffset": 9503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 256,
+                    "startColumn": 4,
+                    "startOffset": 9330,
+                    "endColumn": 47,
+                    "endOffset": 9373
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 257,
+                        "startColumn": 1,
+                        "startOffset": 9410,
+                        "endColumn": 44,
+                        "endOffset": 9453
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 257,
+                    "startColumn": 4,
+                    "startOffset": 9378,
+                    "endColumn": 52,
+                    "endOffset": 9426
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 256,
+                        "startColumn": 1,
+                        "startOffset": 9359,
+                        "endColumn": 49,
+                        "endOffset": 9407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 258,
+                    "startColumn": 4,
+                    "startOffset": 9431,
+                    "endColumn": 69,
+                    "endOffset": 9496
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 252,
+                        "startColumn": 1,
+                        "startOffset": 9108,
+                        "endColumn": 66,
+                        "endOffset": 9173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 259,
+                    "startColumn": 4,
+                    "startOffset": 9501,
+                    "endColumn": 50,
+                    "endOffset": 9547
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 247,
+                        "startColumn": 1,
+                        "startOffset": 8842,
+                        "endColumn": 47,
+                        "endOffset": 8888
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 260,
+                    "startColumn": 4,
+                    "startOffset": 9552,
+                    "endColumn": 57,
+                    "endOffset": 9605
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 264,
+                        "startColumn": 1,
+                        "startOffset": 9848,
+                        "endColumn": 54,
+                        "endOffset": 9901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 261,
+                    "startColumn": 4,
+                    "startOffset": 9610,
+                    "endColumn": 55,
+                    "endOffset": 9661
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 254,
+                        "startColumn": 1,
+                        "startOffset": 9235,
+                        "endColumn": 52,
+                        "endOffset": 9286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 9666,
+                    "endColumn": 71,
+                    "endOffset": 9733
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 255,
+                        "startColumn": 1,
+                        "startOffset": 9289,
+                        "endColumn": 68,
+                        "endOffset": 9356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 263,
+                    "startColumn": 4,
+                    "startOffset": 9738,
+                    "endColumn": 50,
+                    "endOffset": 9784
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 265,
+                        "startColumn": 1,
+                        "startOffset": 9904,
+                        "endColumn": 47,
+                        "endOffset": 9950
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 264,
+                    "startColumn": 4,
+                    "startOffset": 9789,
+                    "endColumn": 89,
+                    "endOffset": 9874
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 259,
+                        "startColumn": 1,
+                        "startOffset": 9506,
+                        "endColumn": 86,
+                        "endOffset": 9591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 265,
+                    "startColumn": 4,
+                    "startOffset": 9879,
+                    "endColumn": 70,
+                    "endOffset": 9945
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 273,
+                        "startColumn": 1,
+                        "startOffset": 10453,
+                        "endColumn": 67,
+                        "endOffset": 10519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 266,
+                    "startColumn": 4,
+                    "startOffset": 9950,
+                    "endColumn": 72,
+                    "endOffset": 10018
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 269,
+                        "startColumn": 4,
+                        "startOffset": 10213,
+                        "endColumn": 72,
+                        "endOffset": 10281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 267,
+                    "startColumn": 4,
+                    "startOffset": 10023,
+                    "endColumn": 72,
+                    "endOffset": 10091
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 272,
+                        "startColumn": 1,
+                        "startOffset": 10382,
+                        "endColumn": 69,
+                        "endOffset": 10450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 10096,
+                    "endColumn": 61,
+                    "endOffset": 10153
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 260,
+                        "startColumn": 1,
+                        "startOffset": 9594,
+                        "endColumn": 58,
+                        "endOffset": 9651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 269,
+                    "startColumn": 4,
+                    "startOffset": 10158,
+                    "endColumn": 60,
+                    "endOffset": 10214
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 266,
+                        "startColumn": 1,
+                        "startOffset": 9953,
+                        "endColumn": 57,
+                        "endOffset": 10009
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 270,
+                    "startColumn": 4,
+                    "startOffset": 10219,
+                    "endColumn": 64,
+                    "endOffset": 10279
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 268,
+                        "startColumn": 1,
+                        "startOffset": 10147,
+                        "endColumn": 61,
+                        "endOffset": 10207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 271,
+                    "startColumn": 4,
+                    "startOffset": 10284,
+                    "endColumn": 50,
+                    "endOffset": 10330
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 261,
+                        "startColumn": 1,
+                        "startOffset": 9654,
+                        "endColumn": 47,
+                        "endOffset": 9700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 272,
+                    "startColumn": 4,
+                    "startOffset": 10335,
+                    "endColumn": 56,
+                    "endOffset": 10387
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 245,
+                        "startColumn": 1,
+                        "startOffset": 8705,
+                        "endColumn": 53,
+                        "endOffset": 8757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 10392,
+                    "endColumn": 57,
+                    "endOffset": 10445
+                },
+                "from": {
+                    "file": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 271,
+                        "startColumn": 1,
+                        "startOffset": 10326,
+                        "endColumn": 54,
+                        "endOffset": 10379
+                    }
+                }
+            }
+        ]
+    }
+]

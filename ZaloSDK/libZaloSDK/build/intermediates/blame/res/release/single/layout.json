@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\layout\\retry_container.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\layout\\retry_container.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\layout\\choose_account.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\layout\\choose_account.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\layout\\choose_account_row.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\layout\\choose_account_row.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\layout\\custom_photo_action_dialog.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\layout\\custom_photo_action_dialog.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\layout\\login_activity.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\layout\\login_activity.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\layout\\login_zing_id_form.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\layout\\login_zing_id_form.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\layout\\zalosdk_activity_zalo_web_login.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\layout\\zalosdk_activity_zalo_web_login.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\layout\\review_img.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\layout\\review_img.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\layout\\fake_webview_activity.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\layout\\fake_webview_activity.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\layout\\login_container.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\layout\\login_container.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\layout\\zalosdk_activity_alert.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\layout\\zalosdk_activity_alert.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\layout\\zalo_plugin_selectshare.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\layout\\zalo_plugin_selectshare.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\layout\\zalo_web_regis_input_phone.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\layout\\zalo_web_regis_input_phone.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\layout\\zalosdk_activity_retry.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\layout\\zalosdk_activity_retry.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\layout\\zalosdk_fragment_zalo_web_update_profile.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\layout\\zalosdk_fragment_zalo_web_update_profile.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\layout\\confirm_cmnd.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\layout\\confirm_cmnd.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\layout\\zalosdk_fragment_zalo_web_create_password.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\layout\\zalosdk_fragment_zalo_web_create_password.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\layout\\zalo_web_regis_active_code.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\layout\\zalo_web_regis_active_code.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\layout\\zalosdk_videw_web_login_toolbar.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\layout\\zalosdk_videw_web_login_toolbar.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\layout\\cmnd_container.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\layout\\cmnd_container.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\layout\\zalo_web_regis_termcondition.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\layout\\zalo_web_regis_termcondition.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\layout\\zalosdk_tooltip.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\layout\\zalosdk_tooltip.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\layout\\choose_account_type.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\layout\\choose_account_type.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\layout\\zalo_web_regis_item_country.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\layout\\zalo_web_regis_item_country.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\layout\\support_container.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\layout\\support_container.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\layout\\choose_type_and_account.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\layout\\choose_type_and_account.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\layout\\zalosdk_activity_processing.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\layout\\zalosdk_activity_processing.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\layout\\zalo_web_regis_dialog_confirm.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\layout\\zalo_web_regis_dialog_confirm.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\layout\\zalo_web_regis_layout_select_country.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\layout\\zalo_web_regis_layout_select_country.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\layout\\protect_acc_guest.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\layout\\protect_acc_guest.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\layout\\email_guard_container.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\layout\\email_guard_container.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\layout\\zalosdk_fragment_zalo_web_login.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\layout\\zalosdk_fragment_zalo_web_login.xml"
+    },
+    {
+        "merged": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\build\\intermediates\\res\\merged\\release\\layout\\zalosdk_toast.xml",
+        "source": "D:\\WORKSPACE\\github\\AAA\\TestZaloSDK\\ZaloSDK\\libZaloSDK\\src\\main\\res\\layout\\zalosdk_toast.xml"
+    }
+]
